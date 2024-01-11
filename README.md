@@ -24,4 +24,4 @@ This project focuses on analyzing a dataset from a Brazilian CSGO platform. The 
 - Insights gained from data analysis and visualization are elaborated.
 
 ## Contact
-For any queries or feedback, please contact me through my Linkedin!!
+For any queries or feedback, please contact me through my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)
