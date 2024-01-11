@@ -23,8 +23,5 @@ This project focuses on analyzing a dataset from a Brazilian CSGO platform. The 
 - The outcome of the linear regression model is discussed.
 - Insights gained from data analysis and visualization are elaborated.
 
-## Contributing
-Contributors can fork the repository, create a feature branch, make changes, and then submit a pull request.
-
-## License
-The project is under the MIT License.
+## Contact
+For any queries or feedback, please contact me through my Linkedin!!
